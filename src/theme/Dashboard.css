@@ -1,0 +1,168 @@
+.small_banner{
+    --color: #94618E;
+    font-family: 'Shrikhand', cursive;
+    text-align: center;
+    font-size: 15px;
+}
+
+ion-content{
+    --padding-start: 12px;
+    --padding-end: 12px;
+}
+
+.body{
+    font-family: 'Open Sans', sans-serif;
+    --color:#49274A;
+}
+
+.splash_button{
+    --background: #49274A;
+    --color: #ffffff;
+    font-weight: bolder;
+    font-size: 15px;
+    width: 60%;
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    margin-bottom: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.interest_label h1, .my-custom-interface{
+    font-family: 'Open Sans', sans-serif;
+    color: #49274A
+}
+
+ion-item-divider{
+    margin-top: 40px;
+}
+
+.interest_label h1{
+    background-color: #DCCEDA;
+    border: 1px solid #DCCEDA;
+    border-radius: 4px;
+    text-align: center;
+    padding: 40px 40px;
+    font-size: 18px;
+}
+
+.nav_bar{
+    --background: #49274A;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+}
+
+ion-tab-button{
+    --background-focused: #F8EEE7;
+    --color-selected: #F8EEE7;
+}
+
+.travel_tip{
+    --background: #DCCEDA;
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+    --padding-left: 40px;
+    --padding-right: 40px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: #49274A;
+}
+
+.section_heading{
+    font-family: 'Raleway', sans-serif;
+    color: #49274A;
+}
+
+.section_heading h2{
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.col_content{
+    text-align: center
+}
+
+ion-col img{
+    border-radius: 9px;
+}
+
+.col_content figcaption{
+    font-family: 'Raleway', sans-serif;
+}
+
+.bl_heading h1{
+    font-family: 'Raleway', sans-serif;
+    color: #49274A;
+    font-weight: bolder;
+    letter-spacing: 0.05em;
+}
+
+.cal_heading h1{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: #49274A;
+    font-weight: bolder;
+    letter-spacing: 0.05em;
+}
+
+.cal_subtitle p{
+    text-align: center;
+}
+
+.planningbtn{
+    --background: #94618E;
+    border-radius: 4px;
+    font-family: 'Raleway', sans-serif;
+    --color: #FFFCFA;
+    font-size: 20px;
+    --padding-left: 20px;
+    --padding-right: 20px;
+    --padding-top: 30px;
+    --padding-bottom: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    margin-top: 50px;
+}
+
+.add_icon{
+    margin-right: 10px;
+    font-size: 25px;
+    color:#49274A;
+    margin-left: 20px;
+}
+
+.plan_new{
+    font-family: 'Raleway', sans-serif;
+    color: #49274A;
+    font-size: 20px;
+}
+
+ion-card{
+    width: 200px;
+    height: 300px;
+}
+
+.scroll_content{
+    display: block;
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+
+ion-card figcaption{
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-size: 17px;
+}
+
+ion-header{
+    --padding-left: 0px;
+    --padding-right: 0px;
+}

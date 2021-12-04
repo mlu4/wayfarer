@@ -1,0 +1,104 @@
+.small_banner{
+    --color: #94618E;
+    font-family: 'Shrikhand', cursive;
+    text-align: center;
+    font-size: 15px;
+}
+
+ion-content{
+    --padding-start: 12px;
+    --padding-end: 12px;
+}
+
+.body{
+    font-family: 'Open Sans', sans-serif;
+    --color:#49274A;
+}
+
+.splash_button{
+    --background: #49274A;
+    --color: #ffffff;
+    font-weight: bolder;
+    font-size: 15px;
+    width: 60%;
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    margin-bottom: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav_bar{
+    --background: #49274A;
+}
+
+ion-header{
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.itinerary_header h1, .itinerary_header p{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+.itinerary_header h1{
+    margin-bottom: 0px;
+}
+
+.itinerary_header p{
+    margin-top: 0px;
+}
+
+.top_nav{
+    --color: #49274A;
+    -webkit-justify-content: left !important;
+    justify-content: left !important;
+}
+
+ion-tab-button{
+    --background-focused: #94618E;
+    --color-selected: #94618E;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.active{
+    text-decoration: underline;
+}
+
+ion-select.no_arrow::part(icon) {
+    display: none;
+}
+
+.activity_label {
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 5px;
+}
+
+.my-custom-interface .alert-wrapper {
+    width: 100% !important;
+}
+
+ion-card{
+    font-size: 50px;
+}
+
+ion-card figcaption{
+    font-size: 14px;
+}
+
+.day_header h1{
+    font-family: 'Raleway', sans-serif;
+    color:#49274A;
+    font-weight: bold;
+}
+
+.add_button{
+    padding-left: 15px;
+    margin-top: 10px;
+    --background: #49274A;
+    font-size: 15px;
+}

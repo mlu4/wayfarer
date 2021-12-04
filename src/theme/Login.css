@@ -1,0 +1,12 @@
+.welcome{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    --color: #49274A;
+    text-align: center;
+}
+
+.loginbtn{
+    --color: #FFFCFA;
+    --background: #49274A;
+}

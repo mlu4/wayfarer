@@ -1,0 +1,27 @@
+.splash_button{
+    --background: #49274A;
+    --color: #ffffff;
+    font-weight: bolder;
+    font-size: 18px;
+    width: 60%;
+    --padding-top: 40px;
+    --padding-bottom: 40px;
+    margin-bottom: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.banner{
+    --color: #94618E;
+    font-family: 'Shrikhand', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+
+#banner_p{
+    color: #94618E;
+    font-family: 'Shrikhand', cursive;
+    text-align: center;
+    font-size: 15px;
+}
